@@ -1,0 +1,49 @@
+.align-center{
+    text-align: center;
+    margin: 20px;
+
+}
+.single-line{
+    margin: 15px;
+}
+
+/* .single-line label{
+    width: 100%;
+    font-size: 18px;
+    margin: 20px;
+}
+.single-line input{
+    padding: 6px;
+    
+} */
+ label{
+    width: 100%;
+    font-size: 18px;
+    margin: 20px;
+} input{
+    padding: 6px;
+    
+}
+
+
+button{
+    padding: 10px 40px;
+    background: #0e7529;
+    color: white;
+    box-shadow: none;
+    border: none;
+    cursor: pointer;
+    margin: 10px 0;
+}
+.errorm{
+    color: green;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+.errors{
+    color: red;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 600;
+}
